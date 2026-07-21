@@ -3,3 +3,7 @@ Let's get started!
     --Added a Feature!!
 --My Main Part2 started:
     --May the Main Parted!
+    --Added a Feature!!
+    --Added a Feature!!
+--Feature found a Bug:
+    --Fixed the Bug
