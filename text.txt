@@ -4,3 +4,4 @@ Let's get started!
 --My Main Part2 started:
     --Added a Feature!!
     --Added a Feature!!
+--Feature found a Bug:
