@@ -1,7 +1,7 @@
 Let's get started!
---My Main part1
+--My Main/master part1
     --Added a Feature!!
---My Main TO THE MAIN Branch Part2 started:
+--My Main/master Part2 started:
     --May the Main Parted!
     --Added a Feature!!
     --Added a Feature!!
