@@ -7,3 +7,5 @@ Let's get started!
     --Added a Feature!!
 --Feature found a Bug:
     --Fixed the Bug
+--New Branch Added:
+    
